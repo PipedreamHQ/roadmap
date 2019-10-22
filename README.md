@@ -1,6 +1,6 @@
-# Pipedream Roadmap
+![Pipedream logo](https://res.cloudinary.com/pipedreamin/image/upload/v1569526159/icons/pipedream_x6plab.svg | width=100)
 
-![Pipedream logo](https://res.cloudinary.com/pipedreamin/image/upload/v1569526159/icons/pipedream_x6plab.svg)
+# Pipedream Roadmap
 
 This repo operates as a public roadmap for [https://pipedream.com](https://pipedream.com).
 
