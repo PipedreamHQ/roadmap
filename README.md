@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/pipedreamin/image/upload/v1569526159/icons/pipedream_x6plab.svg" alt="Pipedream logo" width="100">
+<img src="https://res.cloudinary.com/pipedreamin/image/upload/v1569526159/icons/pipedream_x6plab.svg" alt="Pipedream logo" width="250">
 
 # Pipedream Roadmap
 
