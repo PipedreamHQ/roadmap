@@ -2,7 +2,7 @@
 
 This repo serves as a public roadmap for [https://pipedream.com](https://pipedream.com). You can find the Pipedream docs at [https://docs.pipedream.com](https://docs.pipedream.com).
 
-We're eager to build a developer integration platform that solves real problems for you, and we want to respond directly to your requests and feedback. We use Github Issues to track this feedback.
+We're eager to build a developer integration platform that solves real problems for you, and we want to respond directly to your feedback. We use Github Issues to track this feedback.
 
 If you don't know whether you've found a bug or want to talk to our team about a new feature in more depth, please [join our public Slack community](https://pipedream.com/community) and send us a note.
 
