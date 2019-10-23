@@ -1,14 +1,12 @@
-<img src="https://res.cloudinary.com/pipedreamin/image/upload/v1569526159/icons/pipedream_x6plab.svg" alt="Pipedream logo" width="250">
+## Pipedream Roadmap
 
-# Pipedream Roadmap
-
-This repo operates as a public roadmap for [https://pipedream.com](https://pipedream.com).
+This repo serves as a public roadmap for [https://pipedream.com](https://pipedream.com). You can find the Pipedream docs at [https://docs.pipedream.com](https://docs.pipedream.com).
 
 We're eager to build a developer integration platform that solves real problems for you, and we want to respond directly to your requests and feedback. We use Github Issues to track this feedback.
 
-If you're not sure if you've found a bug or want to talk to our team about a new feature in more depth, please [join our public Slack community](https://pipedream.com/community) and send us a note.
+If you don't know whether you've found a bug or want to talk to our team about a new feature in more depth, please [join our public Slack community](https://pipedream.com/community) and send us a note.
 
-While Pipedream publishes some open source components (for example, the [SDK](#sdk)), the Pipedream platform itself is not open source. This repo contains no source code, but functions as a way for you to get visibility into what we're currently working on and to suggest your own ideas for how to improve Pipedream.
+While Pipedream publishes some open source tools (for example, the [SDK](#sdk)), the Pipedream platform itself is not open source. This repo contains no source code, but provides you visibility into what we're working on and gives you a way to suggest your own ideas for how to improve Pipedream.
 
 ## Adding a new issue
 
