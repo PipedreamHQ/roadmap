@@ -20,6 +20,8 @@ If an issue _doesn't_ yet exist, please use these templates to create one:
 
 **[Click here to report a bug](https://github.com/PipedreamHQ/roadmap/issues/new?assignees=&labels=bug&template=bug_report.md&title=)**
 
+**[Click here to request a new app integration](https://github.com/PipedreamHQ/roadmap/issues/new?assignees=&labels=app&template=app---service-integration.md&title=%5BAPP%5D)**
+
 ## Security disclosures
 
 If you'd like to report a suspected vulnerability or security issue, or have any questions about the security of the product, please contact us at **security@pipedream.com** directly.
