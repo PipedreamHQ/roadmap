@@ -1,6 +1,6 @@
 ## Pipedream Roadmap
 
-This repo serves as a public roadmap for [https://pipedream.com](https://pipedream.com). You can find the Pipedream docs at [https://docs.pipedream.com](https://docs.pipedream.com).
+This repo serves as a public roadmap for [https://pipedream.com](https://pipedream.com). You can view the current roadmap at [this project board](https://github.com/PipedreamHQ/roadmap/projects/1).
 
 We're eager to build a developer integration platform that solves real problems for you, and we want to respond directly to your feedback. We use Github Issues to track this feedback.
 
