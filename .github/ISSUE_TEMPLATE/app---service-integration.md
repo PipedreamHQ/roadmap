@@ -13,8 +13,4 @@ assignees: ''
 
 **Is lack of support preventing you from building workflows, or do you have a workaround?**
 
-**Are there specific app events you'd like to see as triggers (event that run a workflow)?**
-For example, trigger a workflow when I receive a new email in Gmail.
-
-**Are there specific actions you'd use for this app?**
-For example, "Send a message" for Slack.
+**Are there specific actions, or triggers, you'd like to see for this app? Please let us know here or use the Action and Trigger issue templates to open requests for each!**
