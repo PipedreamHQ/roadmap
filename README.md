@@ -24,6 +24,10 @@ If an issue _doesn't_ yet exist, please use these templates to create one:
 
 **[Click here to request a new app integration](https://github.com/PipedreamHQ/roadmap/issues/new?assignees=&labels=app&template=app---service-integration.md&title=%5BAPP%5D)**
 
+**[Click here to request a new action](https://github.com/PipedreamHQ/roadmap/issues/new?assignees=&labels=action%2C+enhancement&template=action-request.md&title=%5BACTION%5D)**
+
+**[Click here to request a new trigger](https://github.com/PipedreamHQ/roadmap/issues/new?assignees=&labels=enhancement%2C+trigger&template=trigger-request.md&title=%5BTRIGGER%5D)**
+
 ## Security disclosures
 
 If you'd like to report a suspected vulnerability or security issue, or have any questions about the security of the product, please contact us at **security@pipedream.com** directly.
